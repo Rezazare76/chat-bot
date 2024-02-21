@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chat-bot/static/css/main.9189dec1.css",
+    "main.js": "/chat-bot/static/js/main.3528a778.js",
+    "static/js/787.55fe8878.chunk.js": "/chat-bot/static/js/787.55fe8878.chunk.js",
+    "static/media/OpenSans-Regular.ttf": "/chat-bot/static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf",
+    "index.html": "/chat-bot/index.html",
+    "main.9189dec1.css.map": "/chat-bot/static/css/main.9189dec1.css.map",
+    "main.3528a778.js.map": "/chat-bot/static/js/main.3528a778.js.map",
+    "787.55fe8878.chunk.js.map": "/chat-bot/static/js/787.55fe8878.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9189dec1.css",
+    "static/js/main.3528a778.js"
+  ]
+}
