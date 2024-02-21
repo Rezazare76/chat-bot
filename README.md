@@ -1,6 +1,6 @@
 # Live Demo
 
-🔗 [Mint's Sign up page](https://rezazare76.github.io/chat-bot/)
+🔗 [gh pages](https://rezazare76.github.io/chat-bot/)
 
 # VideoRepute Interview Chatbot
 
