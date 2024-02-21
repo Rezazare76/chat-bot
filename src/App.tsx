@@ -1,4 +1,5 @@
 import { Chat } from "videorepute-chat-interview";
+import logo from "./assets/images/logo.svg";
 interface messageType {
   text: string;
   position: "user" | "bot";
@@ -18,7 +19,7 @@ function App() {
       messageList={storedData ? JSON.parse(storedData) : undefined}
       greetingMessage="hello Welcome to chat bot"
       positions={{ right: "10px", bottom: "10px" }}
-      logo=""
+      logo={logo}
       clear={clearMessage}
       onChange={(elm) => saveMessage(elm)}
       dir="rtl"
