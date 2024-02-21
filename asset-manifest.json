@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/chat-bot/static/css/main.9189dec1.css",
-    "main.js": "/chat-bot/static/js/main.8f87790d.js",
+    "main.js": "/chat-bot/static/js/main.bee2aea7.js",
     "static/js/787.55fe8878.chunk.js": "/chat-bot/static/js/787.55fe8878.chunk.js",
     "static/media/OpenSans-Regular.ttf": "/chat-bot/static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf",
     "static/media/logo.svg": "/chat-bot/static/media/logo.614bdc36ebae826f06ac74e9d08d387b.svg",
     "index.html": "/chat-bot/index.html",
     "main.9189dec1.css.map": "/chat-bot/static/css/main.9189dec1.css.map",
-    "main.8f87790d.js.map": "/chat-bot/static/js/main.8f87790d.js.map",
+    "main.bee2aea7.js.map": "/chat-bot/static/js/main.bee2aea7.js.map",
     "787.55fe8878.chunk.js.map": "/chat-bot/static/js/787.55fe8878.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9189dec1.css",
-    "static/js/main.8f87790d.js"
+    "static/js/main.bee2aea7.js"
   ]
 }
