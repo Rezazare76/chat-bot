@@ -1,0 +1,10 @@
+@font-face {
+  font-family: openSansRegular;
+  src: url("./assets/fonts/OpenSans-Regular.ttf");
+}
+@layer base {
+  html {
+    font-size: 16px;
+    font-family: openSansRegular;
+  }
+}
